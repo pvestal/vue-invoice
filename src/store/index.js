@@ -2,6 +2,7 @@ import { createStore } from "vuex"
 import { doc, collection, getDocs, updateDoc, deleteDoc } from "firebase/firestore"
 import db from '../firebase/firebaseInit'
 
+
 export default createStore({
   state: {
     invoiceData: [],

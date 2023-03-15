@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /dist
-/firebase/fbKey.js
+/firebase/fbKey.js*
 
 
 # local env files
